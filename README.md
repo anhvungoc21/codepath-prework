@@ -6,7 +6,7 @@ A simple mobile Swift app that generates an introduction based on user input abo
 
 ### App Walk-though
 
-<img src="https://imgur.com/yPx5IU5" width=200><br>
+<img src="demo.gif" width=200><br>
 
 ### Required Features
 
